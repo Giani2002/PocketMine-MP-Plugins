@@ -3,7 +3,7 @@ author: JackNoordhuis
 description: Implements extremely basic and highly config anti-hacks to your server
 version: 1.0.0
 main: antihacks\Main
-api:
+api:- 3.0.0-ALPHA1
     - 1.0.0
     - 2.0.0
 
